@@ -18,6 +18,32 @@
 
 5.   并发编程学习： 《Java并发编程的艺术》 《Java 并发编程实战》
 
+学习路线：
+
+Java 集合篇
+
+Java 多线程和并发编程篇（Java内存模型如果了解，将有助于更好学会这套功法）
+
+Spring Framework 深入学习篇（IOC 和AOP 是所有核心基础）
+
+Spring Boot 最佳实战篇（Spring Boot 和各种技术整合）
+
+        Spring Boot + 日志
+
+        Spring Boot + JPA
+
+        Spring Boot + Redis
+
+        Spring Boot + RabbitMQ
+
+        Spring Boot + Kafka(Zookeeper)
+
+        Spring Boot + Apache Axis2
+
+        Spring Boot + Quartz
+
+        Spring Boot + Spring Cloud
+
 ## 职业：Android 程序员
 
 1. Android 基础学习：《Android第一行代码 第2版》
