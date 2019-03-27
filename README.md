@@ -1,4 +1,5 @@
-# BookCollectionProject
+# Reading Books
+
 收集程序员学习应该阅读的书籍
 
 1. Java基础提高 《Java 编程思想 》（Think in Java 第四版）
