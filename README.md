@@ -6,7 +6,7 @@
 
 功法推荐：
 
-职业：Java 程序员
+## 职业：Java 程序员
 
 1.   Java基础提高 《Java 编程思想 》（Think in Java 第四版）
 
@@ -18,6 +18,6 @@
 
 5.   并发编程学习： 《Java并发编程的艺术》 《Java 并发编程实战》
 
-职业：Android 程序员
+## 职业：Android 程序员
 
 1. Android 基础学习：《Android第一行代码 第2版》
