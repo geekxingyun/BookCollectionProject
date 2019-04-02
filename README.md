@@ -26,7 +26,8 @@ Java 多线程和并发编程篇（Java内存模型如果了解，将有助于�
 
 Spring Framework 深入学习篇（IOC 和AOP 是所有核心基础）
 
-Spring Boot 最佳实战篇（Spring Boot 和各种技术整合）
+Spring Boot 和各种技术整合
+[Spring Boot 2.x 最佳实践手册博客专栏](https://blog.csdn.net/hadues/column/info/33374)
 
         Spring Boot + 日志
 
