@@ -16,13 +16,13 @@
 
 5.   并发编程学习： 《Java并发编程的艺术》 《Java 并发编程实战》
 
-成长路线：
+## 成长路线：
 
 基础篇：Java I/O篇————> Java集合————> JVM内存模型——>并发多线程————>
  
 框架篇： Spring Framework———>Spring Boot 和各种技术整合
 
-[Spring Boot 2.x 最佳实践手册](https://blog.csdn.net/hadues/column/info/33374)
+[Spring Boot 2.x 最佳实践手册博客专栏](https://blog.csdn.net/hadues/column/info/33374)
 
 
 ## 职业：Android 程序员
