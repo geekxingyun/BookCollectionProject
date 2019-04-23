@@ -4,6 +4,8 @@
 
 如果你渴望力量，那么就静下心来修炼吧~
 
+[PDF 在线阅读器](http://web.jisupdf.com/)
+
 ## 职业：Java 程序员
 
 1.   Java基础提高 《Java 编程思想 》（Think in Java 第四版）
