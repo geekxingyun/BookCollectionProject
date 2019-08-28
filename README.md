@@ -37,9 +37,11 @@
 1. Android 基础学习：《Android第一行代码 第2版》
 
 
+---
+
 > 交流即分享，分享才能进步！不对之处，还请各位前辈多多指教。  by 星云
 
-
+---
 # 关于我
 
 [星云CSDN博客](https://blog.csdn.net/hadues)
@@ -66,7 +68,7 @@
 
 # 赞助支持
 
+<div align="left">
 <h2>微信赞赏二维码</h2>
-<p><img src="https://img2018.cnblogs.com/blog/622489/201812/622489-20181215164147325-217176189.png" alt="" width="303" height="282"></p>
-<h2>支付宝赞赏二维码</h2>
-<p><img src="https://img2018.cnblogs.com/blog/622489/201812/622489-20181215164420863-364321980.png" alt="" width="297" height="303"></p>
+<img src="https://img2018.cnblogs.com/blog/622489/201812/622489-20181215164147325-217176189.png" alt="" width="303" height="282">
+</div>
