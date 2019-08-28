@@ -16,7 +16,9 @@
 
 4.   Spring 基础学习：《Spring 揭秘》
 
-5.   并发编程学习： 《Java并发编程的艺术》 《Java 并发编程实战》
+5. 并发编程学习： 《Java并发编程的艺术》 《Java 并发编程实战》
+
+6. Spring Cloud : 《Spring Cloud 微服务架构开发实战》董超 胡炽维
 
 ## 成长路线：
 
