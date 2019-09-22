@@ -20,6 +20,8 @@
 
 6. Spring Cloud : 《Spring Cloud 微服务架构开发实战》董超 胡炽维
 
+[豆瓣阅读在线读书](https://read.douban.com/ebook/55385581/)
+
 ## 成长路线：
 
 基础篇：Java I/O篇————> Java集合————> JVM内存模型——>并发多线程
